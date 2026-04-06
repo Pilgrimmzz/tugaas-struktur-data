@@ -23,4 +23,4 @@ Berikut adalah tampilan proses iterasi pada setiap bahasa pemrograman:
 
 ## Cara Menjalankan
 - **Python**: `python 1.py`
-- **C++**:`hasil.exe` (Windows)
+- **C++**:`hasil_sorting.exe` (Windows)
