@@ -13,8 +13,8 @@ Repositori ini berisi implementasi 5 algoritma pengurutan (Sorting) menggunakan 
 Berikut adalah tampilan proses iterasi pada setiap bahasa pemrograman:
 
 ### 1. Tampilan Python
-![Demo Python 1](Demo Python.png)
-![Demo Python 2](Demo Python(1).png)
+![Demo Python 1](Demo Python.png) 
+![Demo Python 2](Demo Python (1).png)
 > Menampilkan detail setiap perbandingan elemen.
 
 ### 2. Tampilan C++
